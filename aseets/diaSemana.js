@@ -16,6 +16,6 @@ if (numero === 1) {
 } else if (numero === 7) {
     dia = "Domingo";
 } else {
-    dia = "El numero ingresado no es valido";
+    dia = "dia no valido";
 }
 alert("El dia de la semana es: " + dia);
